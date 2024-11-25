@@ -1,1 +1,1 @@
-## Experiment name
+## To draw the characteristics of an n-p-n or p-n-p transistor in common emitter mode. From the characteristics find out (i) the current gain (β) and (ii) the voltage gain of the transistor.
