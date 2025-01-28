@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What is the function of the base in a transistor?",
+      "qid": 1,
+      "option_a": "Acts as the main power supply",
+      "option_b": "Acts as a switch",
+      "option_c": "Controls the current between emitter and collector",
+      "option_d": "None of the above",
+      "correct_option": "c"
+   },
+   {
+      "question": "What type of transistor configuration provides the highest current gain?",
+      "qid": 2,
+      "option_a": "Common Base",
+      "option_b": "Common Collector",
+      "option_c": "Common Emitter",
+      "option_d": "None",
+      "correct_option": "c"
+   },
+   {
+      "question": "What is the typical biasing condition for a transistor in active mode?",
+      "qid": 3,
+      "option_a": "Both junctions forward-biased",
+      "option_b": "Emitter-base junction forward-biased, collector-base junction reverse-biased",
+      "option_c": "Both junctions reverse-biased",
+      "option_d": "Emitter-base junction reverse-biased, collector-base junction forward-biased",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which of the following materials are commonly used to make transistors?",
+      "qid": 4,
+      "option_a": "Silicon",
+      "option_b": " Copper",
+      "option_c": "Iron",
+      "option_d": "Gold",
+      "correct_option": "a"
+   },
+   {
+      "question": "What does the term 'hFE' represent in a transistor?",
+      "qid": 5,
+      "option_a": "Forward voltage gain",
+      "option_b": "Current gain in common-emitter configuration",
+      "option_c": "Power gain",
+      "option_d": "Resistance",
+      "correct_option": "b"
+   }
+]
