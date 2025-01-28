@@ -1,0 +1,672 @@
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                no-undef
+   14:10   warning  'start_act1' is defined but never used                 no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used          no-unused-vars
+   24:5    warning  'activity3' is not defined                             no-undef
+   33:5    warning  'global_score' is assigned a value but never used      no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                   no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used  no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                  no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                   no-unused-vars
+   46:5    warning  'display_score' is defined but never used              no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used            no-unused-vars
+   65:17   warning  'Scene' is not defined                                 no-undef
+   70:27   warning  'bootstrap' is not defined                             no-undef
+  109:18   warning  'Chemistry' is not defined                             no-undef
+  109:42   warning  'battery' is not defined                               no-undef
+  109:55   warning  'Chemistry' is not defined                             no-undef
+  112:9    warning  'sq' is already defined                                no-redeclare
+  112:18   warning  'Chemistry' is not defined                             no-undef
+  112:42   warning  'bjt' is not defined                                   no-undef
+  112:51   warning  'Chemistry' is not defined                             no-undef
+  115:9    warning  'sq' is already defined                                no-redeclare
+  115:18   warning  'Chemistry' is not defined                             no-undef
+  115:42   warning  'vm_and_am' is not defined                             no-undef
+  115:57   warning  'Chemistry' is not defined                             no-undef
+  160:25   warning  'Chemistry' is not defined                             no-undef
+  160:50   warning  'Chemistry' is not defined                             no-undef
+  171:10   warning  'battery' is not defined                               no-undef
+  171:19   warning  'battery' is not defined                               no-undef
+  172:10   warning  'bjt' is not defined                                   no-undef
+  172:15   warning  'bjt' is not defined                                   no-undef
+  173:10   warning  'vm_and_am' is not defined                             no-undef
+  173:21   warning  'vm_and_am' is not defined                             no-undef
+  176:13   warning  'Chemistry' is not defined                             no-undef
+  176:43   warning  'Chemistry' is not defined                             no-undef
+  177:13   warning  'Chemistry' is not defined                             no-undef
+  177:39   warning  'Chemistry' is not defined                             no-undef
+  178:13   warning  'Chemistry' is not defined                             no-undef
+  178:45   warning  'Chemistry' is not defined                             no-undef
+  183:12   warning  Unexpected constant condition                          no-constant-condition
+  205:49   warning  'Chemistry' is not defined                             no-undef
+  208:39   warning  'bootstrap' is not defined                             no-undef
+  242:30   warning  'Chemistry' is not defined                             no-undef
+  242:73   warning  'Chemistry' is not defined                             no-undef
+  270:13   warning  'bsOffcanvas' is already defined                       no-redeclare
+  270:31   warning  'bootstrap' is not defined                             no-undef
+  272:30   warning  'Chemistry' is not defined                             no-undef
+  272:118  warning  'Chemistry' is not defined                             no-undef
+  315:24   warning  'activity3' is not defined                             no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity3.js
+    1:5   warning  'img_slider' is defined but never used                  no-unused-vars
+    2:5   warning  'img_led' is defined but never used                     no-unused-vars
+    3:5   warning  'assembly_image' is defined but never used              no-unused-vars
+    4:5   warning  'led_color' is defined but never used                   no-unused-vars
+    5:5   warning  'power' is assigned a value but never used              no-unused-vars
+    6:5   warning  'current_ele' is assigned a value but never used        no-unused-vars
+    7:5   warning  'l_ele' is assigned a value but never used              no-unused-vars
+    8:5   warning  'x_ele' is assigned a value but never used              no-unused-vars
+   16:10  warning  'activity3' is defined but never used                   no-unused-vars
+   17:5   warning  'pp' is not defined                                     no-undef
+   18:5   warning  'pp' is not defined                                     no-undef
+   19:5   warning  'pp' is not defined                                     no-undef
+   20:25  warning  'pp' is not defined                                     no-undef
+   21:5   warning  'input_observation_table' is not defined                no-undef
+   22:5   warning  'output_observation_table' is not defined               no-undef
+   23:5   warning  'pp' is not defined                                     no-undef
+   24:5   warning  'pp' is not defined                                     no-undef
+   25:27  warning  'bootstrap' is not defined                              no-undef
+  108:5   warning  'pp' is not defined                                     no-undef
+  110:5   warning  'pp' is not defined                                     no-undef
+  112:5   warning  'pp' is not defined                                     no-undef
+  113:5   warning  'canvas' is not defined                                 no-undef
+  113:14  warning  'pp' is not defined                                     no-undef
+  114:5   warning  'context' is not defined                                no-undef
+  114:15  warning  'canvas' is not defined                                 no-undef
+  116:5   warning  'canvas' is not defined                                 no-undef
+  117:5   warning  'rect' is not defined                                   no-undef
+  117:12  warning  'canvas' is not defined                                 no-undef
+  143:37  warning  'rect' is not defined                                   no-undef
+  143:47  warning  'lscale' is not defined                                 no-undef
+  144:25  warning  'canvas' is not defined                                 no-undef
+  144:54  warning  'rect' is not defined                                   no-undef
+  144:65  warning  'lscale' is not defined                                 no-undef
+  156:5   warning  'canvas' is not defined                                 no-undef
+  157:5   warning  'canvas' is not defined                                 no-undef
+  157:23  warning  'canvas' is not defined                                 no-undef
+  158:5   warning  'lscale' is not defined                                 no-undef
+  158:14  warning  'canvas' is not defined                                 no-undef
+  160:9   warning  'canvas' is not defined                                 no-undef
+  164:5   warning  'context' is not defined                                no-undef
+  164:26  warning  'canvas' is not defined                                 no-undef
+  165:5   warning  'context' is not defined                                no-undef
+  203:19  warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  203:65  warning  'output_observation_table' is not defined               no-undef
+  204:20  warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  204:67  warning  'input_observation_table' is not defined                no-undef
+  208:10  warning  'power_button' is defined but never used                no-unused-vars
+  224:9   warning  'mode' is not defined                                   no-undef
+  233:25  warning  'inp_sim_vbe' is not defined                            no-undef
+  234:25  warning  'inp_sim_vce' is not defined                            no-undef
+  235:24  warning  'inp_sim_ib' is not defined                             no-undef
+  237:9   warning  'mode' is not defined                                   no-undef
+  239:14  warning  'mode' is not defined                                   no-undef
+  252:25  warning  'out_sim_vce' is not defined                            no-undef
+  253:24  warning  'out_sim_ib' is not defined                             no-undef
+  254:24  warning  'out_sim_ic' is not defined                             no-undef
+  255:9   warning  'mode' is not defined                                   no-undef
+  259:10  warning  'inp_ch_vbe_dec' is defined but never used              no-unused-vars
+  260:9   warning  'inp_sim_vbe' is not defined                            no-undef
+  261:9   warning  'inp_sim_vbe' is not defined                            no-undef
+  261:35  warning  'inp_sim_vbe' is not defined                            no-undef
+  265:14  warning  'inp_sim_vbe' is not defined                            no-undef
+  270:10  warning  'inp_ch_vbe_inc' is defined but never used              no-unused-vars
+  271:9   warning  'inp_sim_vbe' is not defined                            no-undef
+  272:9   warning  'inp_sim_vbe' is not defined                            no-undef
+  272:35  warning  'inp_sim_vbe' is not defined                            no-undef
+  276:14  warning  'inp_sim_vbe' is not defined                            no-undef
+  281:10  warning  'inp_ch_vce_dec' is defined but never used              no-unused-vars
+  282:9   warning  'inp_sim_vce' is not defined                            no-undef
+  283:9   warning  'inp_sim_vce' is not defined                            no-undef
+  283:23  warning  'inp_sim_vce' is not defined                            no-undef
+  286:14  warning  'inp_sim_vce' is not defined                            no-undef
+  290:10  warning  'inp_ch_vce_inc' is defined but never used              no-unused-vars
+  291:9   warning  'inp_sim_vce' is not defined                            no-undef
+  292:9   warning  'inp_sim_vce' is not defined                            no-undef
+  292:23  warning  'inp_sim_vce' is not defined                            no-undef
+  295:14  warning  'inp_sim_vce' is not defined                            no-undef
+  302:25  warning  'input_ch' is not defined                               no-undef
+  303:13  warning  'input_ch' is not defined                               no-undef
+  303:35  warning  'inp_sim_vce' is not defined                            no-undef
+  304:24  warning  'input_ch' is not defined                               no-undef
+  305:23  warning  'input_ch' is not defined                               no-undef
+  307:36  warning  'inp_sim_vbe' is not defined                            no-undef
+  308:21  warning  'inp_sim_ib' is not defined                             no-undef
+  309:36  warning  'inp_sim_ib' is not defined                             no-undef
+  310:37  warning  'inp_sim_vce' is not defined                            no-undef
+  311:37  warning  'inp_sim_vbe' is not defined                            no-undef
+  312:43  warning  'inp_sim_vce' is not defined                            no-undef
+  320:10  warning  'out_ch_vce_dec' is defined but never used              no-unused-vars
+  321:9   warning  'out_sim_vce' is not defined                            no-undef
+  322:9   warning  'out_sim_vce' is not defined                            no-undef
+  322:23  warning  'out_sim_vce' is not defined                            no-undef
+  326:14  warning  'out_sim_vce' is not defined                            no-undef
+  331:10  warning  'out_ch_vce_inc' is defined but never used              no-unused-vars
+  332:9   warning  'out_sim_vce' is not defined                            no-undef
+  333:9   warning  'out_sim_vce' is not defined                            no-undef
+  333:23  warning  'out_sim_vce' is not defined                            no-undef
+  337:14  warning  'out_sim_vce' is not defined                            no-undef
+  342:10  warning  'out_ch_ib_dec' is defined but never used               no-unused-vars
+  343:9   warning  'out_sim_ib' is not defined                             no-undef
+  344:9   warning  'out_sim_ib' is not defined                             no-undef
+  344:22  warning  'out_sim_ib' is not defined                             no-undef
+  347:14  warning  'out_sim_ib' is not defined                             no-undef
+  351:10  warning  'out_ch_ib_inc' is defined but never used               no-unused-vars
+  352:9   warning  'out_sim_ib' is not defined                             no-undef
+  353:9   warning  'out_sim_ib' is not defined                             no-undef
+  353:22  warning  'out_sim_ib' is not defined                             no-undef
+  356:14  warning  'out_sim_ib' is not defined                             no-undef
+  363:25  warning  'output_ch' is not defined                              no-undef
+  364:13  warning  'output_ch' is not defined                              no-undef
+  364:35  warning  'out_sim_ib' is not defined                             no-undef
+  365:24  warning  'output_ch' is not defined                              no-undef
+  366:23  warning  'output_ch' is not defined                              no-undef
+  368:36  warning  'out_sim_vce' is not defined                            no-undef
+  369:21  warning  'out_sim_ic' is not defined                             no-undef
+  370:36  warning  'out_sim_ic' is not defined                             no-undef
+  371:37  warning  'out_sim_vce' is not defined                            no-undef
+  372:36  warning  'out_sim_ib' is not defined                             no-undef
+  373:42  warning  'out_sim_ib' is not defined                             no-undef
+  380:10  warning  'set_first_constant' is defined but never used          no-unused-vars
+  382:9   warning  'inp_sim_vce' is not defined                            no-undef
+  391:19  warning  'inp_sim_vce' is not defined                            no-undef
+  397:10  warning  'set_second_constant' is defined but never used         no-unused-vars
+  398:9   warning  'out_sim_ib' is not defined                             no-undef
+  407:19  warning  'out_sim_ib' is not defined                             no-undef
+  418:25  warning  'input_observation_table' is not defined                no-undef
+  419:13  warning  'input_observation_table' is not defined                no-undef
+  419:46  warning  'inp_sim_vbe' is not defined                            no-undef
+  420:69  warning  'inp_sim_vbe' is not defined                            no-undef
+  441:18  warning  'input_observation_table' is not defined                no-undef
+  442:18  warning  'inp_sim_vbe' is not defined                            no-undef
+  443:18  warning  'inp_sim_ib' is not defined                             no-undef
+  444:5   warning  'input_observation_table' is not defined                no-undef
+  447:19  warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  447:65  warning  'input_observation_table' is not defined                no-undef
+  447:91  warning  'input_observation_table' is not defined                no-undef
+  451:27  warning  'bootstrap' is not defined                              no-undef
+  456:27  warning  'bootstrap' is not defined                              no-undef
+  461:9   warning  'input_observation_table' is not defined                no-undef
+  468:9   warning  'pp' is not defined                                     no-undef
+  469:9   warning  'pp' is not defined                                     no-undef
+  470:13  warning  'bsOffcanvas' is already defined                        no-redeclare
+  470:31  warning  'bootstrap' is not defined                              no-undef
+  500:25  warning  'output_observation_table' is not defined               no-undef
+  501:13  warning  'output_observation_table' is not defined               no-undef
+  501:47  warning  'out_sim_vce' is not defined                            no-undef
+  502:69  warning  'out_sim_vce' is not defined                            no-undef
+  523:18  warning  'output_observation_table' is not defined               no-undef
+  524:18  warning  'out_sim_vce' is not defined                            no-undef
+  525:18  warning  'out_sim_ic' is not defined                             no-undef
+  526:5   warning  'output_observation_table' is not defined               no-undef
+  529:19  warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  529:65  warning  'output_observation_table' is not defined               no-undef
+  529:92  warning  'output_observation_table' is not defined               no-undef
+  533:27  warning  'bootstrap' is not defined                              no-undef
+  538:27  warning  'bootstrap' is not defined                              no-undef
+  543:9   warning  'output_observation_table' is not defined               no-undef
+  548:9   warning  'activity4' is not defined                              no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity4.js
+    7:10  warning  'activity4' is defined but never used                   no-unused-vars
+    8:5   warning  'pp' is not defined                                     no-undef
+    9:5   warning  'pp' is not defined                                     no-undef
+   10:5   warning  'pp' is not defined                                     no-undef
+   12:5   warning  'pp' is not defined                                     no-undef
+   13:5   warning  'pp' is not defined                                     no-undef
+   14:27  warning  'bootstrap' is not defined                              no-undef
+   34:5   warning  'pp' is not defined                                     no-undef
+   36:5   warning  'pp' is not defined                                     no-undef
+   39:5   warning  'canvas' is not defined                                 no-undef
+   39:14  warning  'pp' is not defined                                     no-undef
+   40:5   warning  'context' is not defined                                no-undef
+   40:15  warning  'canvas' is not defined                                 no-undef
+   80:5   warning  'canvas' is not defined                                 no-undef
+   81:5   warning  'canvas' is not defined                                 no-undef
+   81:23  warning  'canvas' is not defined                                 no-undef
+   82:5   warning  'lscale' is not defined                                 no-undef
+   82:14  warning  'canvas' is not defined                                 no-undef
+   84:9   warning  'canvas' is not defined                                 no-undef
+   88:5   warning  'context' is not defined                                no-undef
+   88:26  warning  'canvas' is not defined                                 no-undef
+   89:5   warning  'context' is not defined                                no-undef
+   96:18  warning  'output_ch' is not defined                              no-undef
+   96:42  warning  'output_ch' is not defined                              no-undef
+   97:18  warning  'output_ch' is not defined                              no-undef
+   97:39  warning  'output_ch' is not defined                              no-undef
+  101:5   warning  'calc_table' is not defined                             no-undef
+  103:14  warning  'output_ch' is not defined                              no-undef
+  103:38  warning  'output_ch' is not defined                              no-undef
+  104:14  warning  'output_ch' is not defined                              no-undef
+  104:35  warning  'output_ch' is not defined                              no-undef
+  108:5   warning  'calc_table' is not defined                             no-undef
+  110:14  warning  'output_ch' is not defined                              no-undef
+  110:38  warning  'output_ch' is not defined                              no-undef
+  111:14  warning  'output_ch' is not defined                              no-undef
+  111:35  warning  'output_ch' is not defined                              no-undef
+  115:5   warning  'calc_table' is not defined                             no-undef
+  117:14  warning  'output_ch' is not defined                              no-undef
+  117:38  warning  'output_ch' is not defined                              no-undef
+  118:14  warning  'output_ch' is not defined                              no-undef
+  118:35  warning  'output_ch' is not defined                              no-undef
+  122:5   warning  'calc_table' is not defined                             no-undef
+  124:14  warning  'output_ch' is not defined                              no-undef
+  124:38  warning  'output_ch' is not defined                              no-undef
+  125:14  warning  'output_ch' is not defined                              no-undef
+  125:35  warning  'output_ch' is not defined                              no-undef
+  129:5   warning  'calc_table' is not defined                             no-undef
+  130:19  warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  130:65  warning  'calc_table' is not defined                             no-undef
+  134:5   warning  'pp' is not defined                                     no-undef
+  135:5   warning  'pp' is not defined                                     no-undef
+  136:27  warning  'bootstrap' is not defined                              no-undef
+  140:25  warning  'input_observation_table' is not defined                no-undef
+  141:23  warning  'input_observation_table' is not defined                no-undef
+  142:24  warning  'input_observation_table' is not defined                no-undef
+  143:23  warning  'output_observation_table' is not defined               no-undef
+  144:24  warning  'output_observation_table' is not defined               no-undef
+  155:25  warning  'input_ch' is not defined                               no-undef
+  157:13  warning  'input_ch' is not defined                               no-undef
+  157:35  warning  'inp_sim_vce' is not defined                            no-undef
+  162:35  warning  'input_ch' is not defined                               no-undef
+  163:23  warning  'input_ch' is not defined                               no-undef
+  181:25  warning  'output_ch' is not defined                              no-undef
+  183:13  warning  'output_ch' is not defined                              no-undef
+  183:35  warning  'out_sim_ib' is not defined                             no-undef
+  188:34  warning  'output_ch' is not defined                              no-undef
+  189:23  warning  'output_ch' is not defined                              no-undef
+  219:21  warning  'Chart' is not defined                                  no-undef
+  274:21  warning  'Chart' is not defined                                  no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity5.js
+   1:10  warning  'activity5' is defined but never used     no-unused-vars
+   2:5   warning  'pp' is not defined                       no-undef
+   3:5   warning  'pp' is not defined                       no-undef
+   4:5   warning  'pp' is not defined                       no-undef
+   5:5   warning  'pp' is not defined                       no-undef
+   6:5   warning  'pp' is not defined                       no-undef
+   7:27  warning  'bootstrap' is not defined                no-undef
+  21:5   warning  'pp' is not defined                       no-undef
+  23:5   warning  'pp' is not defined                       no-undef
+  26:5   warning  'canvas' is not defined                   no-undef
+  26:14  warning  'pp' is not defined                       no-undef
+  27:5   warning  'context' is not defined                  no-undef
+  27:15  warning  'canvas' is not defined                   no-undef
+  31:19  warning  'Show_Table_Custom_Fixed' is not defined  no-undef
+  31:51  warning  'calc_table' is not defined               no-undef
+  42:5   warning  'canvas' is not defined                   no-undef
+  43:5   warning  'canvas' is not defined                   no-undef
+  43:23  warning  'canvas' is not defined                   no-undef
+  44:5   warning  'lscale' is not defined                   no-undef
+  44:14  warning  'canvas' is not defined                   no-undef
+  46:9   warning  'canvas' is not defined                   no-undef
+  50:5   warning  'context' is not defined                  no-undef
+  50:26  warning  'canvas' is not defined                   no-undef
+  51:5   warning  'context' is not defined                  no-undef
+  56:22  warning  'Updated_Question' is not defined         no-undef
+  61:21  warning  'activity6' is not defined                no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity6.js
+   1:10  warning  'activity6' is defined but never used  no-unused-vars
+   2:5   warning  'pp' is not defined                    no-undef
+   3:5   warning  'pp' is not defined                    no-undef
+  10:5   warning  'pp' is not defined                    no-undef
+  12:5   warning  'pp' is not defined                    no-undef
+  15:5   warning  'canvas' is not defined                no-undef
+  15:14  warning  'pp' is not defined                    no-undef
+  16:5   warning  'context' is not defined               no-undef
+  16:15  warning  'canvas' is not defined                no-undef
+  26:5   warning  'canvas' is not defined                no-undef
+  27:5   warning  'canvas' is not defined                no-undef
+  27:23  warning  'canvas' is not defined                no-undef
+  28:5   warning  'lscale' is not defined                no-undef
+  28:14  warning  'canvas' is not defined                no-undef
+  30:9   warning  'canvas' is not defined                no-undef
+  34:5   warning  'context' is not defined               no-undef
+  34:26  warning  'canvas' is not defined                no-undef
+  35:5   warning  'context' is not defined               no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity7.js
+   2:10   warning  'activity7' is defined but never used    no-unused-vars
+   3:5    warning  'pp' is not defined                      no-undef
+   4:5    warning  'pp' is not defined                      no-undef
+   5:5    warning  'pp' is not defined                      no-undef
+   7:30   warning  'composition' is not defined             no-undef
+   7:42   warning  'selected_index' is not defined          no-undef
+   7:59   warning  'calculated_table' is not defined        no-undef
+   7:76   warning  'selected_index' is not defined          no-undef
+   7:107  warning  'calculated_table' is not defined        no-undef
+   7:124  warning  'selected_index' is not defined          no-undef
+   7:155  warning  'calculated_table' is not defined        no-undef
+   7:172  warning  'selected_index' is not defined          no-undef
+   8:24   warning  'Table' is not defined                   no-undef
+   9:5    warning  'pp' is not defined                      no-undef
+  14:19   warning  'A1' is not defined                      no-undef
+  14:31   warning  'A2' is not defined                      no-undef
+  15:19   warning  'B1' is not defined                      no-undef
+  15:31   warning  'B2' is not defined                      no-undef
+  16:19   warning  'C1' is not defined                      no-undef
+  16:31   warning  'C2' is not defined                      no-undef
+  17:18   warning  'P' is not defined                       no-undef
+  26:5    warning  'pp' is not defined                      no-undef
+  28:10   warning  'verify_act7' is defined but never used  no-unused-vars
+  33:10   warning  'verify_values' is not defined           no-undef
+  33:48   warning  'calculated_table' is not defined        no-undef
+  33:65   warning  'selected_index' is not defined          no-undef
+  37:10   warning  'verify_values' is not defined           no-undef
+  37:48   warning  'calculated_table' is not defined        no-undef
+  37:65   warning  'selected_index' is not defined          no-undef
+  41:10   warning  'verify_values' is not defined           no-undef
+  41:48   warning  'calculated_table' is not defined        no-undef
+  41:65   warning  'selected_index' is not defined          no-undef
+  45:10   warning  'verify_values' is not defined           no-undef
+  45:48   warning  'calculated_table' is not defined        no-undef
+  45:65   warning  'selected_index' is not defined          no-undef
+  53:5    warning  'pp' is not defined                      no-undef
+  54:5    warning  'pp' is not defined                      no-undef
+  55:5    warning  'pp' is not defined                      no-undef
+  58:25   warning  'calculated_table' is not defined        no-undef
+  60:34   warning  'composition' is not defined             no-undef
+  61:29   warning  'calculated_table' is not defined        no-undef
+  62:42   warning  'calculated_table' is not defined        no-undef
+  65:24   warning  'Table' is not defined                   no-undef
+  66:5    warning  'pp' is not defined                      no-undef
+  69:10   warning  'selected_index' is not defined          no-undef
+  70:5    warning  'pp' is not defined                      no-undef
+  71:5    warning  'pp' is not defined                      no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/activity8.js
+   1:10  warning  'activity8' is defined but never used  no-unused-vars
+   2:5   warning  'pp' is not defined                    no-undef
+   3:5   warning  'pp' is not defined                    no-undef
+   8:5   warning  'pp' is not defined                    no-undef
+   9:5   warning  'pp' is not defined                    no-undef
+  14:5   warning  'label' is not defined                 no-undef
+  15:5   warning  'graph_data' is not defined            no-undef
+  16:25  warning  'calculated_table' is not defined      no-undef
+  17:9   warning  'label' is not defined                 no-undef
+  17:20  warning  'calculated_table' is not defined      no-undef
+  18:9   warning  'graph_data' is not defined            no-undef
+  18:34  warning  'calculated_table' is not defined      no-undef
+  33:21  warning  'Chart' is not defined                 no-undef
+  36:21  warning  'label' is not defined                 no-undef
+  40:27  warning  'graph_data' is not defined            no-undef
+  52:27  warning  'graph_data1' is not defined           no-undef
+  85:30  warning  'selected_name' is not defined         no-undef
+  85:61  warning  'composition' is not defined           no-undef
+  85:73  warning  'selected_index' is not defined        no-undef
+  94:5   warning  'pol1_data' is not defined             no-undef
+  94:17  warning  'regression_linear' is not defined     no-undef
+  94:35  warning  'label' is not defined                 no-undef
+  94:42  warning  'graph_data' is not defined            no-undef
+  95:5   warning  'graph_data1' is not defined           no-undef
+  97:25  warning  'label' is not defined                 no-undef
+  98:9   warning  'graph_data1' is not defined           no-undef
+  98:26  warning  'pol1_data' is not defined             no-undef
+  98:41  warning  'label' is not defined                 no-undef
+  98:52  warning  'pol1_data' is not defined             no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/common.js
+   1:10  warning  'verify_values' is defined but never used                no-unused-vars
+  21:10  warning  'std_deviation' is defined but never used                no-unused-vars
+  26:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  43:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+  45:12  warning  Unexpected constant condition                            no-constant-condition
+  62:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/data.js
+    2:5  warning  'mode' is assigned a value but never used                      no-unused-vars
+    3:5  warning  'exp_data' is assigned a value but never used                  no-unused-vars
+    4:5  warning  'input_ch' is assigned a value but never used                  no-unused-vars
+   31:5  warning  'output_ch' is assigned a value but never used                 no-unused-vars
+   58:5  warning  'inp_sim_ib' is assigned a value but never used                no-unused-vars
+   59:5  warning  'inp_sim_ic' is assigned a value but never used                no-unused-vars
+   60:5  warning  'inp_sim_vce' is assigned a value but never used               no-unused-vars
+   61:5  warning  'inp_sim_vbe' is assigned a value but never used               no-unused-vars
+   62:5  warning  'out_sim_ib' is assigned a value but never used                no-unused-vars
+   63:5  warning  'out_sim_ic' is assigned a value but never used                no-unused-vars
+   64:5  warning  'out_sim_vce' is assigned a value but never used               no-unused-vars
+   65:5  warning  'out_sim_vbe' is assigned a value but never used               no-unused-vars
+   66:5  warning  'input_observation_table' is assigned a value but never used   no-unused-vars
+   93:5  warning  'output_observation_table' is assigned a value but never used  no-unused-vars
+  100:5  warning  'current' is assigned a value but never used                   no-unused-vars
+  101:5  warning  'd' is assigned a value but never used                         no-unused-vars
+  102:5  warning  'x' is assigned a value but never used                         no-unused-vars
+  103:5  warning  'x1' is assigned a value but never used                        no-unused-vars
+  104:5  warning  'd1' is assigned a value but never used                        no-unused-vars
+  105:5  warning  'calc_table' is assigned a value but never used                no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/dummy.js
+  2:14  warning  'Pannel' is not defined  no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  185:39   warning  'lscale' is not defined          no-undef
+  185:57   warning  'lscale' is not defined          no-undef
+  186:39   warning  'lscale' is not defined          no-undef
+  186:57   warning  'lscale' is not defined          no-undef
+  233:33   warning  'lscale' is not defined          no-undef
+  234:33   warning  'lscale' is not defined          no-undef
+  282:50   warning  'lscale' is not defined          no-undef
+  282:72   warning  'lscale' is not defined          no-undef
+  287:63   warning  'lscale' is not defined          no-undef
+  287:88   warning  'lscale' is not defined          no-undef
+  287:106  warning  'lscale' is not defined          no-undef
+  287:124  warning  'lscale' is not defined          no-undef
+  301:33   warning  'lscale' is not defined          no-undef
+  302:33   warning  'lscale' is not defined          no-undef
+  303:41   warning  'lscale' is not defined          no-undef
+  303:66   warning  'lscale' is not defined          no-undef
+  304:41   warning  'lscale' is not defined          no-undef
+  304:66   warning  'lscale' is not defined          no-undef
+  305:45   warning  'lscale' is not defined          no-undef
+  305:70   warning  'lscale' is not defined          no-undef
+  306:45   warning  'lscale' is not defined          no-undef
+  306:70   warning  'lscale' is not defined          no-undef
+  333:61   warning  'lscale' is not defined          no-undef
+  333:90   warning  'lscale' is not defined          no-undef
+  334:61   warning  'lscale' is not defined          no-undef
+  334:96   warning  'lscale' is not defined          no-undef
+  335:66   warning  'lscale' is not defined          no-undef
+  335:101  warning  'lscale' is not defined          no-undef
+  336:66   warning  'lscale' is not defined          no-undef
+  336:100  warning  'lscale' is not defined          no-undef
+  337:67   warning  'lscale' is not defined          no-undef
+  337:101  warning  'lscale' is not defined          no-undef
+  338:67   warning  'lscale' is not defined          no-undef
+  338:96   warning  'lscale' is not defined          no-undef
+  339:61   warning  'lscale' is not defined          no-undef
+  339:90   warning  'lscale' is not defined          no-undef
+  356:33   warning  'lscale' is not defined          no-undef
+  357:33   warning  'lscale' is not defined          no-undef
+  386:46   warning  'lscale' is not defined          no-undef
+  392:50   warning  'lscale' is not defined          no-undef
+  392:72   warning  'lscale' is not defined          no-undef
+  422:52   warning  'lscale' is not defined          no-undef
+  422:79   warning  'lscale' is not defined          no-undef
+  424:56   warning  'lscale' is not defined          no-undef
+  424:83   warning  'lscale' is not defined          no-undef
+  461:50   warning  'lscale' is not defined          no-undef
+  461:72   warning  'lscale' is not defined          no-undef
+  467:63   warning  'lscale' is not defined          no-undef
+  467:88   warning  'lscale' is not defined          no-undef
+  467:106  warning  'lscale' is not defined          no-undef
+  467:124  warning  'lscale' is not defined          no-undef
+  481:33   warning  'lscale' is not defined          no-undef
+  482:33   warning  'lscale' is not defined          no-undef
+  483:41   warning  'lscale' is not defined          no-undef
+  483:66   warning  'lscale' is not defined          no-undef
+  484:41   warning  'lscale' is not defined          no-undef
+  484:66   warning  'lscale' is not defined          no-undef
+  485:45   warning  'lscale' is not defined          no-undef
+  485:70   warning  'lscale' is not defined          no-undef
+  486:45   warning  'lscale' is not defined          no-undef
+  486:70   warning  'lscale' is not defined          no-undef
+  515:50   warning  'lscale' is not defined          no-undef
+  515:72   warning  'lscale' is not defined          no-undef
+  520:139  warning  'lscale' is not defined          no-undef
+  520:172  warning  'lscale' is not defined          no-undef
+  520:205  warning  'lscale' is not defined          no-undef
+  520:223  warning  'lscale' is not defined          no-undef
+  541:50   warning  'lscale' is not defined          no-undef
+  541:72   warning  'lscale' is not defined          no-undef
+  546:139  warning  'lscale' is not defined          no-undef
+  546:172  warning  'lscale' is not defined          no-undef
+  546:205  warning  'lscale' is not defined          no-undef
+  546:223  warning  'lscale' is not defined          no-undef
+  568:50   warning  'lscale' is not defined          no-undef
+  568:72   warning  'lscale' is not defined          no-undef
+  573:133  warning  'lscale' is not defined          no-undef
+  573:172  warning  'lscale' is not defined          no-undef
+  573:205  warning  'lscale' is not defined          no-undef
+  573:222  warning  'lscale' is not defined          no-undef
+  596:39   warning  'lscale' is not defined          no-undef
+  596:53   warning  'lscale' is not defined          no-undef
+  597:39   warning  'lscale' is not defined          no-undef
+  597:53   warning  'lscale' is not defined          no-undef
+  598:39   warning  'lscale' is not defined          no-undef
+  598:53   warning  'lscale' is not defined          no-undef
+  599:39   warning  'lscale' is not defined          no-undef
+  599:53   warning  'lscale' is not defined          no-undef
+  606:36   warning  'lscale' is not defined          no-undef
+  606:50   warning  'lscale' is not defined          no-undef
+  606:63   warning  'lscale' is not defined          no-undef
+  617:36   warning  'lscale' is not defined          no-undef
+  617:50   warning  'lscale' is not defined          no-undef
+  617:63   warning  'lscale' is not defined          no-undef
+  644:46   warning  'lscale' is not defined          no-undef
+  649:50   warning  'lscale' is not defined          no-undef
+  649:72   warning  'lscale' is not defined          no-undef
+  671:50   warning  'lscale' is not defined          no-undef
+  671:72   warning  'lscale' is not defined          no-undef
+  675:46   warning  'lscale' is not defined          no-undef
+  676:46   warning  'lscale' is not defined          no-undef
+  676:67   warning  'lscale' is not defined          no-undef
+  677:49   warning  'lscale' is not defined          no-undef
+  714:50   warning  'lscale' is not defined          no-undef
+  714:72   warning  'lscale' is not defined          no-undef
+  730:38   warning  'lscale' is not defined          no-undef
+  730:51   warning  'lscale' is not defined          no-undef
+  732:38   warning  'lscale' is not defined          no-undef
+  734:38   warning  'lscale' is not defined          no-undef
+  734:52   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/pannel.js
+    8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  110:7  warning  'Table1' is defined but never used  no-unused-vars
+  152:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/scene.js
+   1:7    warning  'Scene' is defined but never used         no-unused-vars
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:5    warning  'context' is not defined                  no-undef
+  28:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  28:15   warning  'context' is not defined                  no-undef
+  28:44   warning  'canvas' is not defined                   no-undef
+  28:62   warning  'canvas' is not defined                   no-undef
+  28:84   warning  'canvas' is not defined                   no-undef
+  28:102  warning  'canvas' is not defined                   no-undef
+  28:121  warning  'canvas' is not defined                   no-undef
+  36:5    warning  'context' is not defined                  no-undef
+  37:5    warning  'context' is not defined                  no-undef
+  37:28   warning  'canvas' is not defined                   no-undef
+  37:42   warning  'canvas' is not defined                   no-undef
+  38:5    warning  'context' is not defined                  no-undef
+  39:5    warning  'context' is not defined                  no-undef
+
+/home/runner/work/exp-transistor-emitter-mode-iitb/exp-transistor-emitter-mode-iitb/experiment/simulation/js/test.js
+  2:14  warning  'Pannel' is not defined                     no-undef
+  4:5   warning  'table' is assigned a value but never used  no-unused-vars
+
+✖ 625 problems (0 errors, 625 warnings)
+

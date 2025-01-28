@@ -1,0 +1,47 @@
+[
+   {
+      "question": "In the input characteristics of a common-emitter transistor, which region indicates the saturation?",
+      "qid": 1,
+      "option_a": "Linear region",
+      "option_b": "Cut-off region",
+      "option_c": "Saturation region",
+      "option_d": "Inverse active region",
+      "correct_option": "c"
+   },
+   {
+      "question": "What relationship between base current and collector current is typically observed in a common-emitter configuration?",
+      "qid": 2,
+      "option_a": "Base current is much higher than collector current",
+      "option_b": "Collector current is much higher than base current",
+      "option_c": "Both currents are equal",
+      "option_d": "No relationship",
+      "correct_option": "b"
+   },
+   {
+      "question": "What happens to the output characteristics when the base current is increased?",
+      "qid": 3,
+      "option_a": "Collector current decreases",
+      "option_b": "Collector current increases",
+      "option_c": "Collector-emitter voltage remains constant",
+      "option_d": "None of the above",
+      "correct_option": "b"
+   },
+   {
+      "question": "Which parameter is kept constant while measuring the output characteristics of a transistor?",
+      "qid": 4,
+      "option_a": "Collector current",
+      "option_b": "Base current",
+      "option_c": "Collector-emitter voltage",
+      "option_d": "Emitter current",
+      "correct_option": "b"
+   },
+   {
+      "question": "What does the slope of the output characteristic curve indicate?",
+      "qid": 5,
+      "option_a": "Current gain",
+      "option_b": "Dynamic output resistance",
+      "option_c": "Power loss",
+      "option_d": "Voltage gain",
+      "correct_option": "b"
+   }
+]
